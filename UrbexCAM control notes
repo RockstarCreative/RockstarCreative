@@ -1,8 +1,12 @@
-W/A/S/D       -> Moving
-Space         -> Jumping
-LCTRL         -> Crouching
-LSHIFT        -> Running
-ALT           -> Toggle quiet mode
-LCTRL 2x      -> Laying down
-LSHIFT 2x     -> Emergency running
-W + LSHIFT   
+W/A/S/D            -> Moving
+Space              -> Jumping
+LCTRL              -> Crouching
+LSHIFT             -> Running
+ALT                -> Toggle quiet mode
+LCTRL 2x           -> Laying down
+LSHIFT 2x          -> Emergency running
+W + SPACE          -> Climbing up short objects
+LSHIFT + W + SPACE -> Climbing up taller object or jump over short objects
+TAB                -> Checking missions
+Y                  -> Checking map
+ESC                -> Open pause menu
