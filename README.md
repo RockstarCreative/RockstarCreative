@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RockstarCreative.
-- 👀 I’m interested in Unity Engine.
-- 🌱 I’m currently learning C# and CSS.
-- 💞️ I’m looking to collaborate on Videogame developing. 
-- 📫 Reach me on Discord @rockstarcreative
+- 👀 I’m using in Unity Engine.
+- 🛠  Working on UrbexCAM.
+- 🌱 I’m currently learning C# and C++.
+- 📫 If you're interested in me, contact me on Discord @rockstarcreative
 - 😄 Pronouns: He/Him (straight)
