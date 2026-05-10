@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RockstarCreative.
 - 👀 I use Unity Engines.
-- 🛠  Working on UrbexCAM, soon in the future I will work on HyperEngine.
-- 🌱 I’m currently learning C# and C++.
-- 📫 If you're interested in me, contact me on Discord @rockstarcreative
+- 🛠  Working on UrbexCAM.
+- 🌱 I’m currently learning C# and Python.
 - 😄 Pronouns: He/Him (straight).
